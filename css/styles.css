@@ -66,6 +66,10 @@ img {
   border-bottom: 1px solid;
   border-top: none;
   color: var(--second-bg);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 24px;
+  padding-right: 24px;
 }
 .nav {
   display: flex;
@@ -332,19 +336,13 @@ img {
   font-size: 18px;
   line-height: 2.16;
   text-align: left;
-  padding-top: 20px;
   padding-bottom: 4px;
-  margin-left: 24px;
-  margin-right: 24px;
 }
 .list-title-text {
   color: var(--main-text-cl);
   font-size: 16px;
   line-height: 1.87;
   text-align: left;
-  padding-bottom: 20px;
-  margin-left: 24px;
-  margin-right: 24px;
 }
 .btn {
   display: flex;
